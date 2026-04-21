@@ -23,12 +23,6 @@ Interested in **ethical hacking**, **systems programming**, and **Linux administ
 
 ---
 
-## Portfolio and Projects
-
-My portfolio: [https://github.com/pangolinshell](https://github.com/pangolinshell)  
-
----
-
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pangolinshell&show_icons=true&theme=dark)  
