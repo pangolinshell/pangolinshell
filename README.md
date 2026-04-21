@@ -1,6 +1,6 @@
 # Hello, I'm pangolinshell
 
-Student at **Zone01 Normandie**  
+Ex-student at **Zone01 Normandie**
 Passionate about **IT** for around 6–7 years  
 Interested in **ethical hacking**, **systems programming**, and **Linux administration**  
 
