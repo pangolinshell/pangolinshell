@@ -1,6 +1,7 @@
 # Hello, I'm pangolinshell
 
 Ex-student at **Zone01 Normandie**
+Currently studying at **CCT College Dublin**
 Passionate about **IT** for around 6–7 years  
 Interested in **ethical hacking**, **systems programming**, and **Linux administration**  
 
